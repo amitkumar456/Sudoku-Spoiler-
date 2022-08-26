@@ -1,1 +1,1 @@
-# Sudoku-Spoiler-
+# Sudoku-Spoiler
